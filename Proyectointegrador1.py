@@ -19,3 +19,7 @@ P.###################
 #.#.#.#.#.#.#.#.#.#.#
 #.....#.....#.#.#.#.#
 ###################..
+
+nombre = int(input('Ingrese su nombre'))
+
+print('Bienvenido al jueguito del laberinto'(nombre))
